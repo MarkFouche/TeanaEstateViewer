@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/js/estateViewer/model.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/estateViewer/view.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/estateViewer/controller.min.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/estateViewer/controller.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/estateViewer/view.js" />
+        <item url="file://$PROJECT_DIR$/dist/js/estateViewer/model.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/js/estateViewer/model.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/estateViewer/view.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/estateViewer/controller.min.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/estateViewer/controller.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/estateViewer/view.js" />
+      <root url="file://$PROJECT_DIR$/dist/js/estateViewer/model.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
