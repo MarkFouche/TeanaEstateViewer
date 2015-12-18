@@ -3,7 +3,7 @@ EV = window.ToT.EstateViewer
 class LandTile
     constructor: (x, y) ->
         @pos = {x: x, y: y}
-        @model = '../models/landtiles/land_tile_fine.dae'
+        @model = 'models/land_tiles/land_tile_fine.dae'
 
 class EV.Model
     constructor: (@controller) ->
@@ -12,5 +12,3 @@ class EV.Model
         for x in [0..9]
             for y in [0..4]
                 @land_tiles.push new LandTile(x,y)
-
-
